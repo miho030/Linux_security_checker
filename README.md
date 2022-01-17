@@ -3,15 +3,13 @@ Analysis all security level and patch all vuln in Linux systems.
 
 ## Description
 ```
-Linux security checker (lsc) is ' auto security check tools ' consisting of shell scripts. </br> 
-It can executable on Debian/CentOS Linux servers or systems. </br> 
+Linux security checker (lsc) is ' auto security check tools ' consisting of shell scripts.
+It can executable on Debian/CentOS Linux servers or systems.
 
 
-<\br>
-
-lsc can patch common-vulnerability in system witch are you want to set it auto. </br> 
-It perform automatically diagnoses security settings that are mainly overlooked during system operation, </br> 
-and automatically sets system security levels to recommended values using patch scripts based on diagnostic results. </br> 
+lsc can patch common-vulnerability in system witch are you want to set it auto. 
+It perform automatically diagnoses security settings that are mainly overlooked during system operation, 
+and automatically sets system security levels to recommended values using patch scripts based on diagnostic results. 
 ```
 
 
